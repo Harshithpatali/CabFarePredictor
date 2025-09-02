@@ -1,0 +1,35 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dataset files
+data/
+*.csv
+*.xlsx
+
+# Model artifacts
+model_artifacts/
+*.pkl
+*.joblib
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
